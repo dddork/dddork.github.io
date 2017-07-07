@@ -1,0 +1,65 @@
+html {
+    background-image: url(images.jpg);
+    background-size: cover;
+    color:black;
+    font-family: Verdana, monospace, sans-serif;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    width: 70%;
+    margin: auto;
+}
+.foto{
+    border-radius: 25px;
+    border: 8px dashed blue;
+    width: 60%;
+    height: 60%;
+}
+
+
+.onemli {
+    font-size: 18px;
+}
+
+
+.parcalar{
+    display:inline-block;
+}
+
+h1{
+    color:red;
+}
+
+
+.cumle{
+    font-size: 18px
+}
+
+
+.fotob{
+    border-radius: 25px;
+    border: 8px dashed blue;
+    width: 50%;
+    height: 50%;
+}
+
+
+.fotol {
+    
+    border-radius: 25px;
+    border: 8px dashed blue;
+}
+
+
+.fotor {
+    border-radius: 25px;
+    border: 8px dashed blue;
+    width: 40%;
+    height: 40%;
+}
+
+
+
+
